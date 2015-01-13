@@ -1,0 +1,36 @@
+h1 {
+	color: blue;
+}
+
+.main {
+	background-color: #f1f1f1;
+}
+
+.post {
+	background-color: white;
+}
+
+.post__head-img {
+	background-image: url("http://www.zastavki.com/pictures/originals/2013/Animals_Dogs_Cheerful_doggie_036630_.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0 80%;
+	height: 400px;
+}
+
+.post__footer {
+	background-color: #f7f7f7;
+	padding: 20px 0;
+}
+
+ul {
+	text-align: center;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 20px;
+}
+
